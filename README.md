@@ -13,3 +13,5 @@
 ▶ Beyond the Hype: Google’s Practical AI Guide Every Startup Founder Should Read [Summary Article](https://www.marktechpost.com/2025/04/30/beyond-the-hype-googles-practical-ai-guide-every-startup-founder-should-read/)  |  [Download the report/guide](https://services.google.com/fh/files/misc/google_cloud_future_of_ai_perspectives_for_startups_2025.pdf)
 
 ▶ Microsoft Releases a Comprehensive Guide to Failure Modes in Agentic AI Systems [Summary Article](https://www.marktechpost.com/2025/04/27/microsoft-releases-a-comprehensive-guide-to-failure-modes-in-agentic-ai-systems/)  |  [Download the report/guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+
+▶ OpenAI Releases a Practical Guide to Identifying and Scaling AI Use Cases in Enterprise Workflows Summary Article](https://www.marktechpost.com/2025/04/20/openai-releases-a-practical-guide-to-identifying-and-scaling-ai-use-cases-in-enterprise-workflows/)  |  [Download the report/guide](https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf)
