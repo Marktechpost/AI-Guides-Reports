@@ -1,5 +1,7 @@
 # AI-Guides-Reports
 
+▶ BOND 2025 AI Trends Report Shows AI Ecosystem Growing Faster than Ever with Explosive User and Developer Adoption [Summary Article](https://www.marktechpost.com/2025/05/31/bond-2025-ai-trends-report-shows-ai-ecosystem-growing-faster-than-ever-with-explosive-user-and-developer-adoption/) |  [Download the report/guide](https://www.bondcap.com/reports/tai)
+
 ▶ Cisco’s Latest AI Agents Report Details the Transformative Impact of Agentic AI on Customer Experience [Summary Article](https://www.marktechpost.com/2025/05/31/ciscos-latest-ai-agents-report-details-the-transformative-impact-of-agentic-ai-on-customer-experience/) |  [Download the report/guide](https://newsroom.cisco.com/c/dam/r/newsroom/pdfs/Cisco-CX-Agentic-AI-Research.pdf)
 
 ▶ A New Citibank Report/Guide Shares How Agentic AI Will Reshape Finance with Autonomous Analysis and Intelligent Automation [Summary Article](https://www.marktechpost.com/2025/04/23/a-new-citibank-report-guide-shares-how-agentic-ai-will-reshape-finance-with-autonomous-analysis-and-intelligent-automation/)  |  [Download the report/guide](https://www.citigroup.com/global/insights/agentic-ai)
