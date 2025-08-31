@@ -1,5 +1,7 @@
 # AI-Guides-Reports
 
+▶ GPT-5 prompting guide [Download the report/guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide?fbclid=IwY2xjawMg7RRleHRuA2FlbQIxMABicmlkETFReU5NODJobGFVcVREVTZYAR6KFjvL6B5xe-V1IrU_ru6h41WRt7EyL1I2mc5urgS2p7vJOeN6HxDSrDMAyQ_aem_cLh3iNvkuS53oYObg4D3mA)
+
 ▶ BOND 2025 AI Trends Report Shows AI Ecosystem Growing Faster than Ever with Explosive User and Developer Adoption [Summary Article](https://www.marktechpost.com/2025/05/31/bond-2025-ai-trends-report-shows-ai-ecosystem-growing-faster-than-ever-with-explosive-user-and-developer-adoption/) |  [Download the report/guide](https://www.bondcap.com/reports/tai)
 
 ▶ Cisco’s Latest AI Agents Report Details the Transformative Impact of Agentic AI on Customer Experience [Summary Article](https://www.marktechpost.com/2025/05/31/ciscos-latest-ai-agents-report-details-the-transformative-impact-of-agentic-ai-on-customer-experience/) |  [Download the report/guide](https://newsroom.cisco.com/c/dam/r/newsroom/pdfs/Cisco-CX-Agentic-AI-Research.pdf)
